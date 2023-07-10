@@ -1,0 +1,8 @@
+git init
+git remote add origin https://github.com/JordanGonz/Proyecto-HTML.git
+git status
+git add .
+git config user.name "JordanGonz"
+git config user.email "jordan.grex23ok@gmail.com"
+git commit -m "subido"
+git push origin master
