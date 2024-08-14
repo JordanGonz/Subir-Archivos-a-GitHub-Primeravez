@@ -5,7 +5,7 @@
 - `git add .`
 - `git config user.name "Tu_usuario"`
 - `git config user.email "Tu_correo"`
--` git commit -m "subido"`
+- ` git commit -m "subido"`
 - `git push origin master`
 
 ## PARA CAMBIAR DE RAMA MASTER A MAIN
